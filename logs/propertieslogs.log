@@ -1,0 +1,45 @@
+[INFO ] 2020-08-23 14:34:20.292 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:34:46.801 [main] LoginPage_Test - User not allowed to login with invalid email and the Error message :This email doesn’t belong to any account. REGISTER
+[INFO ] 2020-08-23 14:36:57.010 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:38:22.794 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:38:40.765 [main] LoginPage_Test - User not allowed to login with invalid email and the Error message :This email doesn’t belong to any account. REGISTER
+[INFO ] 2020-08-23 14:39:07.286 [main] LoginPage_Test - User not allowed to login with invalid password and the Error message for invalid password :Incorrect password. Try again or RESET PASSWORD
+[INFO ] 2020-08-23 14:40:51.057 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:42:08.891 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:43:08.264 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:44:43.993 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:46:36.362 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:47:34.825 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:49:52.827 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:53:21.874 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:55:52.840 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:56:56.246 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 14:58:06.238 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:00:52.006 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:02:48.414 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:03:51.002 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:05:35.324 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:06:20.992 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:08:57.768 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:10:53.703 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:12:28.110 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:14:03.827 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:15:26.341 [main] LoginPage_Test - User Logged in  with valid details
+[INFO ] 2020-08-23 15:15:49.578 [main] LoginPage_Test - User not allowed to login with invalid email and the Error message :This email doesn’t belong to any account. REGISTER
+[INFO ] 2020-08-23 15:16:07.780 [main] LoginPage_Test - User not allowed to login with invalid password and the Error message for invalid password :Incorrect password. Try again or RESET PASSWORD
+[INFO ] 2020-08-23 15:16:31.107 [main] LoginPage_Test - User not allowed to login with Invalid Email and Invalid Password
+[INFO ] 2020-08-23 15:16:48.976 [main] LoginPage_Test - User not allowed to login with blank details
+[INFO ] 2020-08-23 15:17:05.813 [main] LoginPage_Test - Log in Button is in disabled; when the input fields are blank
+[INFO ] 2020-08-23 15:17:28.299 [main] LoginPage_Test - Log in Button is in enabled; when the input fields are filled
+[INFO ] 2020-08-23 15:18:10.981 [main] LoginPage_Test - User is redirected from reset password page to Login page; when user clicked on Echonous logo
+[INFO ] 2020-08-23 15:18:33.567 [main] LoginPage_Test - Echonous logo is displayed in login page
+[INFO ] 2020-08-23 15:19:00.104 [main] LoginPage_Test - Login Your Account header is displayed
+[INFO ] 2020-08-23 15:19:15.606 [main] LoginPage_Test - Remember Me text is displayed
+[INFO ] 2020-08-23 15:19:42.011 [main] LoginPage_Test - Checkbox of Remember Me is not selected By default
+[INFO ] 2020-08-23 15:20:19.326 [main] LoginPage_Test - Send button is disabled; when the Email input field is not entered by user
+[INFO ] 2020-08-25 11:51:56.556 [main] LoginPage_Test - Echonous logo is displayed in login page
+[INFO ] 2020-08-25 11:52:41.126 [main] LoginPage_Test - Login Your Account header is displayed
+[INFO ] 2020-08-25 11:53:22.057 [main] LoginPage_Test - Remember Me text is displayed
+[INFO ] 2020-08-25 11:53:58.504 [main] LoginPage_Test - Checkbox of Remember Me is not selected By default
+[INFO ] 2020-08-25 11:55:06.497 [main] LoginPage_Test - Send button is disabled; when the Email input field is not entered by user
+[INFO ] 2020-08-25 12:00:31.102 [main] LoginPage_Test - Send button is disabled; when the Email input field is not entered by user

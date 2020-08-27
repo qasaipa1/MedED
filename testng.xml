@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Echonous">
+
+	<listeners>
+		<listener class-name="com.meded.qa.Listeners.Listeners" />
+	</listeners>
+
+
+	<test name="Meded">
+
+		<groups>
+			<run>
+				<include name="specific" />
+
+			</run>
+
+		</groups>
+
+		<classes>
+			<class name="com.meded.qa.Test_cases.LoginPage_Test" />
+		</classes>
+
+	</test>
+
+
+</suite>

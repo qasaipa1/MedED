@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Echonous]">
+  <listeners>
+    <listener class-name="com.meded.qa.Listeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Meded(failed)">
+    <groups>
+      <run>
+        <include name="specific"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.meded.qa.Test_cases.LoginPage_Test">
+        <methods>
+          <include name="initialize"/>
+          <include name="shutDown"/>
+          <include name="rememberMe_functionality"/>
+        </methods>
+      </class> <!-- com.meded.qa.Test_cases.LoginPage_Test -->
+    </classes>
+  </test> <!-- Meded(failed) -->
+</suite> <!-- Failed suite [Echonous] -->

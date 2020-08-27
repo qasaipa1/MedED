@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.meded.qa.Test_cases.LoginPage_Test">
+        <methods>
+          <include name="shutDown"/>
+          <include name="login_With_BlankEmail_And_BlankPassword"/>
+          <include name="remeberMe_Checkbox_Unselected_Bydefault"/>
+          <include name="sendButton_Disabled_WhenEmailNotProvided"/>
+          <include name="sendButton_Enabled_WhenEmailProvided"/>
+          <include name="echonousLogo_Displayed"/>
+          <include name="loginYourAccount_Displayed"/>
+          <include name="loginButton_Disabled_Without_Credentials"/>
+          <include name="loginButton_Enabled_With_Credentials"/>
+          <include name="initialize"/>
+          <include name="login_With_ValidEmail_And_InvalidPassword"/>
+          <include name="rememberMe_Dsiplayed"/>
+          <include name="login_With_InvalidEmail_And_InvalidPassword"/>
+          <include name="logIn_With_InvalidEmail_And_ValidPassword"/>
+          <include name="logIn_With_ValidEmail_And_ValidPassword"/>
+          <include name="resetPasswordPage_RedirectedTO_Loginpage"/>
+        </methods>
+      </class> <!-- com.meded.qa.Test_cases.LoginPage_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
